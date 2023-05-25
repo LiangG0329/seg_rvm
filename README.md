@@ -1,2 +1,2 @@
 # seg_rvm
-transforner encoder from Segformer and recurrent decoder from RVM
+hierarchical transformer encoder from Segformer and recurrent decoder from RVM
