@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="gl@219.216.64.122:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="gl@219.216.64.122:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/M2019/gl/pycharm_project/seg_rvm" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/matting-data" />
+            <excludedPath local="true" path="$PROJECT_DIR$/matting-data/VideoMatte240K_JPEG_SD" />
+            <excludedPath path="/media/M2019/gl/pycharm_project/seg_rvm/matting-data" />
+            <excludedPath local="true" path="$PROJECT_DIR$/result_video" />
+            <excludedPath local="true" path="$PROJECT_DIR$/result_video_" />
+            <excludedPath local="true" path="$PROJECT_DIR$/result_video_2" />
+            <excludedPath local="true" path="$PROJECT_DIR$/model_2/result_video" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="gl@219.216.64.122:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:11610 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pycharm_project/seg_rvm" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@152.136.17.179:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pycharm_project/seg_rvm" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
